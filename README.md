@@ -1,4 +1,4 @@
-## Hi there 👋 I am Aby Antony
+## Hi there 👋 I'm Aby Antony
 
 <!--
 **abyantony/abyantony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
