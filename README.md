@@ -6,7 +6,7 @@
 </h3>
 
 <h4 align="center">
-	Head <a href="https://github.com/formidablae/formidablae/discussions/31">over here</a> to engage, share, ask questions and collaborate together!
+	Head <a href="https://github.com/abyantony/abyantony">over here</a> to engage, share, ask questions and collaborate together!
 </h4>
 <hr>
 
